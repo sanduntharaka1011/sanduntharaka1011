@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Sandun Tharaka 👋
 
-<!--
-**sanduntharaka1011/sanduntharaka1011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring AI/ML Engineer
 
-Here are some ideas to get you started:
+I’m passionate about technology and interested in how Artificial Intelligence and Machine Learning can solve real-world problems. I’m working toward a career in AI/ML and continuously building my knowledge through learning and hands-on practice.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- 🌱 Exploring Artificial Intelligence and Machine Learning
+- 💡 Interested in using technology to solve meaningful problems
+- 🎯 Focused on learning, building projects, and growing as an engineer
+- 🤝 Open to connecting and learning with others in tech
+
+## Connect with Me
+
+- [GitHub](https://github.com/sanduntharaka1011)
